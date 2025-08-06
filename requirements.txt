@@ -1,0 +1,9 @@
+Flask
+torch
+torchvision
+Pillow
+picamera
+RPi.GPIO
+openai
+requests
+python-telegram-bot==13.15
